@@ -2,7 +2,7 @@
 This repo shows my portfolio of past PCB designs and fabrication. I am currently using KiCAD but many of these were done using the EAGLE PCB design tool.
 ## Pictures
 ----------------------------------------
-<table>
+<table align="center">
   <tr>
     <th>PCB 3D View</th>
     <th>PCB Layout</th>
